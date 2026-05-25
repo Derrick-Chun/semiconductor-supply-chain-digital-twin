@@ -1,0 +1,6 @@
+supplier,current_share,risk_score,max_share_default
+China,0.091678,0.2,0.5
+Hong Kong,0.000305,0.86,0.2
+Japan,0.078313,0.35,0.45
+Korea,0.118567,0.0,0.5
+Malaysia,0.711137,1.0,0.65
